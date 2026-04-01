@@ -2,7 +2,7 @@
 using lab7.Monitoring;
 using lab7.Strategies;
 
-namespace MonitoringSystem;
+namespace lab7;
 
 internal class Program
 {
